@@ -78,6 +78,11 @@ This tool is created for **educational and stress-testing** purposes **only**. T
 Use it **only on servers you own or have permission to test**.
 
 ---
+## Key 🗝️ 
+
+```bash
+AHShowev(PR1NCE)
+```
 
 ## Author
 
